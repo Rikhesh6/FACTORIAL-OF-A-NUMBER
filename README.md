@@ -1,4 +1,4 @@
-# FACTORIAL-OF-A-NUMBER
+
 # FACTORIAL OF A NUMBER USING 8051 (Keil)
 
 ## AIM
@@ -53,11 +53,13 @@ END
 
 ```
 OUTPUT
+<img width="1915" height="1009" alt="image" src="https://github.com/user-attachments/assets/2b799a57-834d-48d5-831e-914e6f8a008b" />
+<img width="238" height="203" alt="image" src="https://github.com/user-attachments/assets/f9f8c818-09db-472c-84b0-09ec6b634580" />
 
-(Keil output screenshot can be inserted here)
 
 ---
 MANUAL CALCULATIONS
+<img width="1600" height="1201" alt="image" src="https://github.com/user-attachments/assets/6bb7c9f1-1e49-4970-b50e-97b9d081177b" />
 
 ---
 
